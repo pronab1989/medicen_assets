@@ -1,0 +1,123 @@
+[
+  {
+    "id": 2,
+    "name": "Aciloc RD",
+    "brandNames": [
+      "Aciloc RD",
+      "Ranitidine RD",
+      "R-Dine"
+    ],
+    "category": "Proton Pump Inhibitor + Prokinetic",
+    "usedFor": "Acid reflux, GERD",
+    "dosage": "1 capsule daily before meals",
+    "timing": "Before food",
+    "sideEffects": [
+      "Nausea",
+      "Diarrhea",
+      "Abdominal pain"
+    ],
+    "manufacturer": "Cadila Pharmaceuticals"
+  },
+  {
+    "id": 3,
+    "name": "Dabur Honitus Cough Syrup",
+    "brandNames": [
+      "Honitus Herbal",
+      "Dabur Honitus"
+    ],
+    "category": "Herbal Cough Syrup",
+    "usedFor": "Cough, throat irritation",
+    "dosage": "2 teaspoons 3 times a day",
+    "timing": "After food",
+    "sideEffects": [
+      "Allergic reaction (rare)"
+    ],
+    "manufacturer": "Dabur India Ltd"
+  },
+  {
+    "id": 4,
+    "name": "Vicks Vaporub",
+    "brandNames": [
+      "Vicks Vaporub"
+    ],
+    "category": "Topical Decongestant",
+    "usedFor": "Cold relief, nasal congestion, cough",
+    "dosage": "Apply a small amount to chest/throat up to 3 times daily",
+    "timing": "Before sleep or as needed",
+    "sideEffects": [
+      "Skin irritation",
+      "Eye irritation if contact occurs."
+    ],
+    "manufacturer": "Procter & Gamble"
+  },
+  {
+    "id": 5,
+    "name": "Dettol",
+    "brandNames": [
+      "Dettol Antiseptic Liquid"
+    ],
+    "category": "Antiseptic/Disinfectant",
+    "usedFor": "Wound cleansing, skin disinfection, hygiene",
+    "dosage": "Dilute before use (1:20 ratio for wounds)",
+    "timing": "As needed",
+    "sideEffects": [
+      "Skin irritation (undiluted)",
+      "Allergic reactions (rare)"
+    ],
+    "manufacturer": "Reckitt Benckiser"
+  },
+  {
+    "id": 6,
+    "name": "Savlon",
+    "brandNames": [
+      "Savlon Antiseptic Liquid",
+      "Savlon Antiseptic Cream"
+    ],
+    "category": "Antiseptic/Disinfectant",
+    "usedFor": "Wound cleaning, skin antisepsis",
+    "dosage": "Apply directly or dilute for larger areas",
+    "timing": "As needed",
+    "sideEffects": [
+      "Mild stinging",
+      "Skin rash (rare)"
+    ],
+    "manufacturer": "ITC Ltd"
+  },
+  {
+    "id": 7,
+    "name": "Antihistamine",
+    "brandNames": [
+      "Cetirizine",
+      "Loratadine",
+      "Levocetirizine"
+    ],
+    "category": "Antiallergic",
+    "usedFor": "Allergic rhinitis, hives, itching",
+    "dosage": "Once daily (commonly 10 mg)",
+    "timing": "Any time, preferably at night",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth"
+    ],
+    "manufacturer": "Multiple (Generic class)"
+  },
+  {
+    "id": 8,
+    "name": "Decongestant",
+    "brandNames": [
+      "Pseudoephedrine",
+      "Phenylephrine",
+      "Otrivin"
+    ],
+    "category": "Nasal Decongestant",
+    "usedFor": "Nasal congestion, sinus pressure",
+    "dosage": "As directed, usually twice daily",
+    "timing": "With or without food",
+    "sideEffects": [
+      "Increased heart rate",
+      "Nervousness",
+      "Insomnia"
+    ],
+    "manufacturer": "Multiple (Generic class)"
+  }
+]
