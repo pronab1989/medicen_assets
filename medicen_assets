@@ -119,5 +119,26 @@
       "Insomnia"
     ],
     "manufacturer": "Multiple (Generic class)"
-  }
+  },
+{
+  "id": 9,
+  "name": "Omeprazole",
+  "brandNames": [
+    "Omez",
+    "Omeprazole Capsules IP 20mg",
+    "Ocid"
+  ],
+  "category": "Proton Pump Inhibitor (PPI)",
+  "usedFor": "Acid reflux, GERD, stomach ulcers, heartburn",
+  "dosage": "Usually 20mg once daily, or as directed by physician",
+  "timing": "Before meals, preferably in the morning",
+  "sideEffects": [
+    "Headache",
+    "Nausea",
+    "Diarrhea",
+    "Abdominal pain",
+    "Flatulence"
+  ],
+  "manufacturer": "Dr. Reddy's Laboratories (Omez), multiple generic manufacturers"
+}
 ]
